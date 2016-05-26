@@ -1,7 +1,7 @@
 # Angular 2 Examples
 
 ### Angular 2 Starter Template
-[plnk](http://plnkr.co/edit/2aIgMzUx7XgZe9EA6upB?p=preview&open=app%2Fapp.component.ts){:target="_blank"}
+<a href="http://plnkr.co/edit/2aIgMzUx7XgZe9EA6upB?p=preview&open=app%2Fapp.component.ts" target="_blank">Plnk</a>
 
 ## Http
 
