@@ -2,7 +2,7 @@
 
 ### Angular 2 Starter Template
 <a href="http://plnkr.co/edit/2aIgMzUx7XgZe9EA6upB?p=preview&open=app%2Fapp.component.ts" target="_blank">Plnk</a>
-
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 ## Http
 
 #### Star Wars Live Search
